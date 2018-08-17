@@ -47,4 +47,4 @@ GitHub_
 
 *This is licensed under MIT.*a
 
-Copyright (c) 2018 **_Connor McCarthy_, _Brian Nelson_**
+Copyright (c) 2018 **_Connor McCarthy_**
