@@ -1,8 +1,9 @@
 // business logic
 var bbNumber = function (inputNumber){
-  var i = 1
-  var range = Array.from({length: inputNumber}, (x,i) => i);
-  return (range)
+  var rangeArr = Array.from({length: inputNumber}, (x,i) => i);
+  rangeArr.push(inputNumber);
+  rangeArr.shift();
+  return (rangeArr)
 
 }
 // user logic
