@@ -15,7 +15,6 @@ _The web application takes a number from a user and returns a range of numbers f
 | **The program returns the same user input back.** | Input: "Hello World" | Output: "Hello World" |
 | **The program only accepts numbers.** | Input: "run" | Output: "This program only accepts numbers." |
 | **The program a string of numbers counting to the entered number.** | Input: "5" | Output: "1,2,3,4,5" |
-| **The program returns best fitting square for non-square numbers.** | Input: "jumps" | Output: "3 x 2" |
 | **The program returns numbers that contain a 0 with "Beep!"** | Input: "10" | Output: "1,2,3,4,5,6,7,8,9,Beep!" |
 | **The program returns numbers that contain a 1 with "Boop!"** | Input: "3" | Output: "Boop!,2,3" |
 | **The program returns numbers divisible by 3 with "I'm sorry, Dave. I'm afraid I can't do that."** | Input: "3" | Output: "Boop!,2,"|
